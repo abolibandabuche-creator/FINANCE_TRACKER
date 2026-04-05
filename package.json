@@ -5,9 +5,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react-router-dom": "^7.13.2"
-  },
-  "devDependencies": {
+    "react-router-dom": "^7.13.2",
     "vite": "^8.0.3"
   }
 }
