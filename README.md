@@ -5,15 +5,15 @@
 
 A personal finance management app built with React. Track income and expenses, set budgets, view spending insights, and export your data.
 
-## Features
-
-- Add, edit, and delete transactions
+##  Features
+- Add, edit, and delete transactions **(Admin only)**
 - Dashboard with stat cards, charts, and recent transactions
 - Budget tracking with progress bars and exceeded alerts
 - Insights page with spending analysis
 - Search, filter, and sort transactions
 - CSV export
-- Admin/User role toggle
+- **Role-based access control** — Admin can make changes, 
+  User can only view
 - Dark mode with persistence
 - localStorage persistence
 
